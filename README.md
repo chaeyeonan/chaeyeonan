@@ -10,7 +10,6 @@
 ### others
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> </img>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> </img>
-<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> </img>
 
 </div>

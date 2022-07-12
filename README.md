@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=chaeyeon's%20note&animation=fadeIn&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=green&height=120&section=header&text=chaeyeon's%20note&animation=fadeIn&fontSize=40)
 <div align="center">
 
 

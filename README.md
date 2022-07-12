@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=green&height=120&section=header&text=chaeyeon's%20note&animation=fadeIn&fontSize=40)
 <div align="center">
 
-
+<a src="https://12yeonii.tistory.com/">
 <img src="https://img.shields.io/badge/TechBlog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> </img>
+</a>
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> </img>

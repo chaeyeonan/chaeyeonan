@@ -28,4 +28,4 @@ ___
 
 #### log
 ![chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyeonan&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkscodus1204)](https://solved.ac/dkscodus1204/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkscodus12)](https://solved.ac/dkscodus12/)

@@ -3,7 +3,7 @@ I am an aspiring junior frontend developer
 
 <br/>
   
-## 👩🏻‍💻 About me
+<!-- ## 👩🏻‍💻 About me
 ### Education
 - **Ewha Womans Univ., Seoul, South Korea**  
   _Computer Science & Engineering_
@@ -11,7 +11,11 @@ I am an aspiring junior frontend developer
 ### Contact & Profiles
 - **Email:** [dkscodus1204@naver.com](mailto:dkscodus1204@naver.com)
 - **Develog:** [12yeonii.tistory.com](https://12yeonii.tistory.com)
-- **LinkedIn:** [Chaeyeon An](www.linkedin.com/in/chaeyeonan-popo)
+- **LinkedIn:** [Chaeyeon An](www.linkedin.com/in/chaeyeonan-popo) -->
+
+**🏫 Education** : Ewha Womans Univ. - _Computer Science & Engineering_
+
+**💌 Email** [dkscodus1204@naver.com](mailto:dkscodus1204@naver.com) | **📝 Develog:** [12yeonii.tistory.com](https://12yeonii.tistory.com) | **🌐LinkedIn:** [Chaeyeon An](www.linkedin.com/in/chaeyeonan-popo)
 
 <br/>
   

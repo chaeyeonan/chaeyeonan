@@ -1,5 +1,3 @@
-
-  
 # 🍇 Chaeyeon An, anpopo 🍇
 I am an aspiring junior frontend developer 
 
@@ -15,7 +13,7 @@ I am an aspiring junior frontend developer
 - **Develog:** [12yeonii.tistory.com](https://12yeonii.tistory.com)
 - **LinkedIn:** [Chaeyeon An](www.linkedin.com/in/chaeyeonan-popo)
 
-  <br/>
+<br/>
   
 ##  🛠 Tech Stack 
 

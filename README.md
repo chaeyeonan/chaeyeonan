@@ -10,12 +10,12 @@ I am an aspiring junior frontend developer
 
 ### Contact & Profiles
 - **Email:** [dkscodus1204@naver.com](mailto:dkscodus1204@naver.com)
-- **Develog:** [12yeonii.tistory.com](https://12yeonii.tistory.com)
+- **Devlog:** [12yeonii.tistory.com](https://12yeonii.tistory.com)
 - **LinkedIn:** [Chaeyeon An](www.linkedin.com/in/chaeyeonan-popo) -->
 
 **🏫 Education** : Ewha Womans Univ. - _Computer Science & Engineering_
 
-**💌 Email** [dkscodus1204@naver.com](mailto:dkscodus1204@naver.com) | **📝 Develog:** [12yeonii.tistory.com](https://12yeonii.tistory.com) | **🌐LinkedIn:** [Chaeyeon An](www.linkedin.com/in/chaeyeonan-popo)
+**💌 Email** [dkscodus1204@naver.com](mailto:dkscodus1204@naver.com) | **📝 Devlog:** [12yeonii.tistory.com](https://12yeonii.tistory.com) | **🌐 LinkedIn:** [Chaeyeon An](www.linkedin.com/in/chaeyeonan-popo)
 
 <br/>
   

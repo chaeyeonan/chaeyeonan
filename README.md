@@ -1,5 +1,3 @@
-# 🍇 Chaeyeon An, anpopo 🍇
-
 <!-- ## 👩🏻‍💻 About me
 ### Education
 - **Ewha Womans Univ., Seoul, South Korea**  
@@ -28,28 +26,24 @@ src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Jav
 <!-- ### Tools
 <img alt="Git" src="https://camo.githubusercontent.com/8e7b90f62961f6df73ab269e33ed19fdb931af5a67088a66419d0778cd39c82d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/2abee0f8be5b6c3b1f869693a0c6e82428fd06f9a61a826fa6761d301df1c94c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-black?style=flat-square&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&amp;logo=Jira&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/10991aec54045c7d2d512608c598d6f325e2aad44b7552aea8dc911416727150/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d6132353966663f7374796c653d666c61742d737175617265266c6f676f3d4669676d61266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Figma-a259ff?style=flat-square&amp;logo=Figma&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/be991a18525aab6c994ab98f755625e5536074989eb3d8a7a1c10b75c261e43d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3461313534623f7374796c653d666c61742d737175617265266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&amp;logo=Slack&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/bce476b2ed0407a01d32612cacf718fa67240c8a61c3e63db8dc16e877e51f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Notion-black?style=flat-square&amp;logo=Notion&amp;logoColor=white" style="max-width: 100%;"> -->
 
-### 💎 Experience
-- #### INCROSS | SK Square - Frontend Developer Internship  <sub>(2024.01 ~ 2024.06)  </sub> 
-<!--### 2023-->
-- #### 1st AWS Student Clubs Ewha  <sub>(2023.09 ~ 2024.02)  </sub> 
-- #### 17th [CEOS](https://ceos-sinchon.com) Frontend development executive  <sub>(2023.02 ~ 2023.08)  </sub> 
-<!--### 2022-->
-- #### 16th [CEOS](https://ceos-sinchon.com) Frontend development   <sub>(2022.08 ~ 2023.02)  </sub> 
-- #### 3rd [Google Developer Students Clubs](https://github.com/gdscewha-3rd) Ewha <sub>(2022.03 ~ 2022.08)  </sub> 
-- #### 1st [It'sTime](https://github.com/itstime22) web development  <sub>(2022.03 ~ 2022.07)  </sub> 
-<br/>
+#### 💎 Experience
+- INCROSS | SK Square Intern <sub> Frontend Developer Internship  (2024.01 ~ 2024.06)  </sub> 
+- AWS Cloud Clubs EWHA 1st  <sub>(2023.09 ~ 2024.02)  </sub> 
+- [CEOS](https://ceos-sinchon.com) Frontend development executive 17th  <sub>(2023.02 ~ 2023.08)  </sub> 
+- [CEOS](https://ceos-sinchon.com) Frontend development 16th   <sub>(2022.08 ~ 2023.02)  </sub> 
+- [Google Developer Students Clubs](https://github.com/gdscewha-3rd) EWHA 3rd <sub>(2022.03 ~ 2022.08)  </sub> 
+- [It'sTime](https://github.com/itstime22) web development 1st <sub>(2022.03 ~ 2022.07)  </sub> 
 
 
-### 📚 Projects & Studies 
-### Front-end
- #### [Juitcy](https://github.com/whatever-mentoring/EWHATEVER-FRONT.git) : A community where juniors ask and seniors answer <sub>(2023.09 ~ 2023.09)  </sub> 
- #### [CEOS Webpage Admin](https://github.com/CEOS-Developers/CEOS-FE.git) : Admin webpage for the Sinchon United IT Start-up Club <sub>(2023.04 ~ 2023.08)  </sub>
- #### [Finble](https://github.com/finble-dev/Finble-FE.git) : Stock portfolio management service for beginners <sub>(2022.10 ~ 2023.02)  </sub> 
- #### [Chevita](https://github.com/chevita-2022/chevita-Frontend.git) : App for sharing leftover food for single households <sub>(2022.04 ~ 2022.05)  </sub> 
- #### [23Ideal](https://github.com/chaeyeonan/23ideal-Frontend.git) : Public rental housing info service for the 2030 generation <sub>(2022.03 ~ 2022.07)  </sub> 
-<br/>
+##### 📚 Projects & Studies 
+ - [BellyWelly](https://github.com/BellyWelly/BellyWelly-FE) : An application for managing Irritable Bowel Syndrome (IBS) provides personalized health advice using AI <sub>(2023.09 ~ 2024.06)  </sub> 
+ - [Juitcy](https://github.com/whatever-mentoring/EWHATEVER-FRONT.git) : A community where juniors ask and seniors answer <sub>(2023.09 ~ 2023.09)  </sub> 
+ - [CEOS Webpage Admin](https://github.com/CEOS-Developers/CEOS-FE.git) : Admin webpage for the Sinchon United IT Start-up Club <sub>(2023.04 ~ 2023.08)  </sub>
+ - [Finble](https://github.com/finble-dev/Finble-FE.git) : Stock portfolio management service for beginners <sub>(2022.10 ~ 2023.02)  </sub>
+ - [CEOS-FE-16th](https://github.com/chaeyeonan/CEOS-FE-16th.git) : 16th Frontend Study of the Sinchon United IT Start-up Club CEOS <sub>(2022.08 ~ 2022.12)  </sub> 
+ - [Chevita](https://github.com/chevita-2022/chevita-Frontend.git) : App for sharing leftover food for single households <sub>(2022.04 ~ 2022.05)  </sub> 
+ - [23Ideal](https://github.com/chaeyeonan/23ideal-Frontend.git) : Public rental housing info service for the 2030 generation <sub>(2022.03 ~ 2022.07)  </sub> 
 
- #### [CEOS-FE-16th](https://github.com/chaeyeonan/CEOS-FE-16th.git) : 16th Frontend Study of the Sinchon United IT Start-up Club <sub>(2022.08 ~ 2022.12)  </sub> 
  
 
 <br/>

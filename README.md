@@ -36,7 +36,7 @@ src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Jav
 
 
 ##### 📚 Projects & Studies 
- - [BellyWelly](https://github.com/BellyWelly/BellyWelly-FE) : An application for managing Irritable Bowel Syndrome (IBS) provides personalized health advice using AI <sub>(2023.09 ~ 2024.06)  </sub> 
+ - [BellyWelly](https://github.com/BellyWelly/BellyWelly-FE) : AI-powered app for personalized Irritable Bowel Syndrome (IBS) management <sub>(2023.09 ~ 2024.06)  </sub> 
  - [Juitcy](https://github.com/whatever-mentoring/EWHATEVER-FRONT.git) : A community where juniors ask and seniors answer <sub>(2023.09 ~ 2023.09)  </sub> 
  - [CEOS Webpage Admin](https://github.com/CEOS-Developers/CEOS-FE.git) : Admin webpage for the Sinchon United IT Start-up Club <sub>(2023.04 ~ 2023.08)  </sub>
  - [Finble](https://github.com/finble-dev/Finble-FE.git) : Stock portfolio management service for beginners <sub>(2022.10 ~ 2023.02)  </sub>
